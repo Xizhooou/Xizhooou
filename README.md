@@ -6,4 +6,3 @@
 - 🚀 Equipped with solid programming skills and eager to take on challenging projects.  
 - 🌱 **Actively seeking backend development internships** to further enhance my skills and contribute to impactful projects.  
 - 📫 How to reach me Email: [**fergusli324@gamil.com**](fergusli324@gamil.com)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
