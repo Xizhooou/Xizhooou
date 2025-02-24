@@ -5,4 +5,4 @@
 - 🔍 I have thoroughly explored the source code of popular frameworks and technologies such as: **Spring Boot**, **Netty**, **RocketMQ**.  
 - 🚀 Equipped with solid programming skills and eager to take on challenging projects.  
 - 🌱 **Actively seeking backend development internships** to further enhance my skills and contribute to impactful projects.  
-- 📫 How to reach me Email: [**fergusli324@gamil.com**](fergusli324@gamil.com)
+- 📫 How to reach me Email: [**fergusli324@gmail.com**](fergusli324@gamil.com)
